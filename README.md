@@ -4,15 +4,15 @@
 # What is chatbot?
 In simple terms chatbot is a computer program that uses AI and NLP which is natural language processing to generate automate response to user queries and simulates human conversation, it helps user to find information they need.
 
-# Types of chatbots:
+### Types of chatbots:
 1. Text based chatbot
 2. Voice based chatbot
 
-# Chatbot are designed using applications:
+### Chatbot are designed using applications:
 1. Rule based chatbot:
 2. Self learning chatbot
 
-# This chatbot is Text based chatbot and application used is Rule based.
+## This chatbot is Text based chatbot and application used is Rule based.
 
 
 

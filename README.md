@@ -14,5 +14,8 @@ In simple terms chatbot is a computer program that uses AI and NLP which is natu
 
 ## This chatbot is Text based chatbot and application used is Rule based.
 
+## How it works
+
+
 
 
